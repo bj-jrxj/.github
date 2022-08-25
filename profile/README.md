@@ -1,9 +1,3 @@
-<style>
-td,th{
-  border:none !important;
-}
-  </style>
-
 <p align="center">
   <a href="https://fc.faceface2.com/" target="_blank"><img src=https://oss.faceface2.com/facecloud/pic/pYpoZa.png width=100% /></a>
   <!-- <h1 align="center">云头像</h1> -->
