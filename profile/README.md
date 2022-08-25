@@ -33,9 +33,11 @@
 
 
 ## 界面效果
+| 原创头像| 头像生成 |
+|:----:|:----:|
+| <img src="http://oss.faceface2.com/facecloud/pic/px2k1S.png" width="100%">  | <img src="http://oss.faceface2.com/facecloud/pic/EWyxU1.png" width="100%">  |
 
-<img src="https://oss.faceface2.com/facecloud/pic/4nTwaA.gif" width="200"> 
-<img src="https://oss.faceface2.com/facecloud/pic/XhHLm6.gif" width="200"> 
+
 
 ## DEMO体验
 
