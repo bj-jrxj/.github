@@ -1,28 +1,50 @@
-## 中国第一家为用户提供数字原创头像服务平台
 
-![云头像](https://foruda.gitee.com/images/1661317676771198155/zzhczs.png "云头像")
+<p align="center">
+  <a href="https://fc.faceface2.com/" target="_blank"><img src=https://oss.faceface2.com/facecloud/pic/pYpoZa.png width=100% /></a>
+  <!-- <h1 align="center">云头像</h1> -->
+  <div align="center">
+     <a href="https://github.com/tw93/MiaoYan/releases" target="_blank">
+      <img alt="GitHub downloads" src="https://img.shields.io/github/downloads/bj-jrxj/AvatarCloud_iOS/total.svg?style=flat-square"></a>
+    <a href="https://github.com/tw93/MiaoYan/commits" target="_blank">
+      <img alt="GitHub commit" src="https://img.shields.io/github/commit-activity/m/bj-jrxj/AvatarCloud_iOS?style=flat-square"></a>
+    <a href="https://github.com/tw93/MiaoYan/issues?q=is%3Aissue+is%3Aclosed" target="_blank">
+      <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/bj-jrxj/AvatarCloud_iOS.svg?style=flat-square"></a>
+  </div>
+  <div align="center">中国第一家为用户提供数字原创头像服务平台</div>
+</p>
 
-专注使用场景
-头像是用户互联网身份的象征，给予用户审美体验的同时更满足个性化的要求
 
-独立正版原创
-独家高品质海量原创资源，满足用户对艺术、多元、独特头像需求
+## 特点
 
-坚持跨界开放
-建立正版头像开放生态，头部机构创作者入驻保证头像资源正版应用
+- 🤓 原创头像：40多位设计师提供丰富的原创主题头像。
+- 🔭 头像制作：十几种头像组合类型，能生成几百亿个无重复的个性头像。
+- 💯 无侵入接入：SDK直接返回头像图片，不需要用户信息。
+
+## 为什么要做云头像
+
+- 为了找到一个好看的头像,试过很多方式, 搜索引擎中去找头像; avatarmaker, avataaars generator,bigheads等生成头像,都没有很合适的 
+- 很痛苦的事情,就需要解决. 还能和大家一起解决.
+  
+## 接入APP使用
+
+1. 从官网[faceface2.com](https://fc.faceface2.com)申请appId和appSecert
+2. iOS接入流程: [参考这里](https://github.com/bj-jrxj/AvatarCloud_iOS)
+3. Andoird接入流程:[参考这里](https://github.com/bj-jrxj/AvatarCloud_Android)
+
 
 ## 界面效果
-![IP推荐](https://foruda.gitee.com/images/1661317864982996882/resize,w_1080.png)
-![2D捏脸](https://foruda.gitee.com/images/1661317848412357721/ewyxu1.png?x-oss-process=image/resize,w_1080)
+
+<img src="https://oss.faceface2.com/facecloud/pic/4nTwaA.gif" width="200"> 
+<img src="https://oss.faceface2.com/facecloud/pic/XhHLm6.gif" width="200"> 
 
 ## DEMO体验
-|        ![输入图片说明](https://foruda.gitee.com/images/1661319516097714393/di0mge.png "在这里输入图片标题")        |             ![输入图片说明](http://oss.faceface2.com/facecloud/pic/j0PEtR.png "在这里输入图片标题")|
-|----------------|-------------|
-| iOS Demo 扫码下载  | Andorid Demo扫码下载|
 
-
+|![](https://foruda.gitee.com/images/1661319516097714393/di0mge.png) |![](http://oss.faceface2.com/facecloud/pic/j0PEtR.png)|
+|:----:|:----:|
+| <center>iOS Demo 扫码下载</center>  | <center>Andorid Demo扫码下载</center>|
 
 ## 联系
-网站：[云头像](https://fc.faceface2.com)
-邮箱: denghua@faceface2.com
 
+网站：[云头像](https://fc.faceface2.com)
+
+邮箱：<denghua@faceface2.com>
